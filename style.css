@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Box{
+    width: 30%;
+    height: 40%;
+    background-color: blue;
+}
